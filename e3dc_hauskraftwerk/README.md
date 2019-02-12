@@ -1,4 +1,4 @@
-# Templates for visualize E3/DC Hauskraftwerk data in iobroker.vis
+# Templates to visualize E3/DC Hauskraftwerk in iobroker.vis
 
 ## Informations
 
